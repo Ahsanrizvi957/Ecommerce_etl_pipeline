@@ -1,6 +1,4 @@
 import pandas as pd
-from extract import extract_products, extract_category
-
 
 # This function clean text columns for every dataframe which contains text data type
 def clean_text_columns(df):
