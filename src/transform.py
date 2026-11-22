@@ -1,5 +1,8 @@
 import pandas as pd
+<<<<<<< HEAD
 
+=======
+>>>>>>> d91c0d9882ebbb1e966f45328e22ff317d754fc6
 
 # This function clean text columns for every dataframe which contains text data type
 def clean_text_columns(df):
